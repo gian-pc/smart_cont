@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Factura {
 
-    public static void main(String[] args) {
+    public static void compra() {
 
         String [] producto = {"Pijama de seda","Pijama de algodón","Pijama infantil","Pijama de franela","Pijama de tela","Pijama de Otoño","Pijama de Impermeable","Pijama de Primavera","Pijama de Verano","Pijama de Invierno"};
         double [] precio = {10,12,13,16,18,16,25,27,16,22};
